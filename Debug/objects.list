@@ -1,0 +1,7 @@
+"src/interrupt.o"
+"src/main.o"
+"src/si4463.o"
+"src/spi.o"
+"src/system_stm32f0xx.o"
+"src/usart.o"
+"startup/startup_stm32.o"
